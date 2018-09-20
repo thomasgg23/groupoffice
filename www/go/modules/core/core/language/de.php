@@ -129,7 +129,7 @@ return array (
   'City (work)' => 'Stadt (geschäftl.)',
   'State (work)' => 'Bundesland (geschäftl.)',
   'Country (work)' => 'Land (geschäftl.)',
-  'Phone (work)' => 'Telefon',
+  'Phone (work)' => 'Telefon (geschäftl.)',
   'Fax (work)' => 'Telefax (geschäftl.)',
   'Address (post)' => 'Straße (postal.)',
   'Number of house (post)' => 'Hausnummer (postal.)',
